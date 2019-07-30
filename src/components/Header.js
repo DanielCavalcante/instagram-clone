@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
     resizeMode: 'contain'
   },
   title: {
-    color: '#000',
-    fontFamily: 'shelter'
+    color: '#000'
   }
 })

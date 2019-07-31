@@ -31,7 +31,7 @@ const MenuRoutes = {
 }
 
 const MenuConfig = {
-  initialRoutesName: 'Feed',
+  initialRouteName: 'Feed',
   tabBarOptions: {
     showLabel: false
   }
